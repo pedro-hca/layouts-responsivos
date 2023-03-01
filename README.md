@@ -1,4 +1,4 @@
-# projeto-apeperia
+# Projeto Apeperia
 Arquivos do projeto para a Apeperia
 
 curso de layouts responsivos da Alura.
